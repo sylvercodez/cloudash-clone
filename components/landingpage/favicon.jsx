@@ -1,0 +1,7 @@
+import React from 'react'
+
+export default function Favicon() {
+  return (
+    <div><svg class="h-10" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg"><rect width="1024" height="1024" rx="184" fill="url(#paint0_linear_802_56)"></rect><path fill-rule="evenodd" clip-rule="evenodd" d="M525.714 560.309H587.016L439.404 707.653L475.186 608.619H412.786L468.442 463.691H562.817L525.714 560.309ZM548.298 632.773H717.703C784.518 632.773 838.683 578.566 838.683 512C838.683 462.443 808.861 419.857 766.071 401.239C764.966 328.82 705.808 270.453 632.994 270.453C607.376 270.453 583.449 277.678 563.145 290.197C532.261 248.89 482.912 222.144 427.305 222.144C333.753 222.144 257.914 297.845 257.914 391.227C257.914 394.564 258.011 397.878 258.202 401.167C215.316 419.768 185.318 462.462 185.318 512C185.318 578.701 239.342 632.773 306.298 632.773H440.504L378.908 801.856L548.298 632.773Z" fill="url(#paint1_linear_802_56)"></path><defs><linearGradient id="paint0_linear_802_56" x1="39.7958" y1="868.381" x2="1000.84" y2="139.582" gradientUnits="userSpaceOnUse"><stop stop-color="#A855F7"></stop><stop offset="0.665407" stop-color="#4338CA"></stop></linearGradient><linearGradient id="paint1_linear_802_56" x1="685.994" y1="245.806" x2="348.263" y2="686.064" gradientUnits="userSpaceOnUse"><stop stop-color="white"></stop><stop offset="1" stop-color="#EAEAEA"></stop></linearGradient></defs></svg></div>
+  )
+}
