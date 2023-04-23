@@ -82,7 +82,7 @@ export default function Section8() {
             </p>
           </div>
         </div>
-        <div className="grid grid-cols-1 lg:grid-cols-5 my-32 ">
+        <div className="grid grid-cols-1 lg:grid-cols-5 my-14 md:my-32 ">
           <div className=" lg:col-span-3">
             <h4 className=" w-full  lg:w-11/12 text-4xl font-extrabold md:leading-9 text-black-2">
               Close all your AWS console tabs
@@ -93,7 +93,7 @@ export default function Section8() {
               All in a single desktop app.
             </p>
           </div>
-          <div className="lg:col-span-2  w-full md:w-11/12 flex justify-center m-auto">
+          <div className="lg:col-span-2 mt-8 md:mt-0 w-full md:w-11/12 flex justify-center m-auto">
           <div className="grid  sm:grid-cols-2 xs:grid-cols-1 gap-4">
             <button class="inline-flex items-center rounded-md bg-gradient-to-r from-purple-500 to-indigo-700 px-6 py-3 text-base font-medium text-white shadow-sm hover:from-purple-600 hover:to-indigo-800 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2 w-[170px]">
               Download Now
