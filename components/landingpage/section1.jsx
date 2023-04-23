@@ -12,7 +12,7 @@ export default function Section1() {
           <div class="mx-auto px-4  sm:px-6 grid lg:grid  lg:grid-cols-2 lg:gap-24 lg:px-8">
             <div>
               <div className=" w-full md:w-11/12 m-auto">
-              <h1 className="text-3xl  md:text-6xl font-extra-bold leading-14 md:leading-[4rem] ">
+              <h1 className="text-[2.3rem]  md:text-6xl font-extra-bold leading-14 md:leading-[4rem] ">
             Browse <br /> CloudWatch <br /> <span className="relative whitespace-nowrap bg-gradient-to-r bg-clip-text  from-purple-500 to-indigo-700 text-transparent">logs and metrics, </span>{" "}
             <br />
             hassle-free.
