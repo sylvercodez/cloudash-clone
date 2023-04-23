@@ -6,8 +6,8 @@ export default function Section4() {
   return (
     
     <div className="w-full md:w-11/12  m-auto ">
-       <div className="mx-auto px-4  sm">
-        <h1 className=" mt-14 md:mt-20 w-full md:w-5/12 text-center m-auto bg-gradient-to-r from-purple-500 to-indigo-700 bg-clip-text font-display text-4xl font-extrabold tracking-tight text-transparent sm:text-5xl lg:leading-[4rem]">
+       <div className="mx-auto px-4">
+        <h1 className=" mt-8 md:mt-20 w-full md:w-5/12 text-center m-auto bg-gradient-to-r from-purple-500 to-indigo-700 bg-clip-text font-display text-3xl font-extrabold tracking-tight text-transparent sm:text-5xl lg:leading-[4rem]">
         Endorsed by AWS community
 
         </h1>

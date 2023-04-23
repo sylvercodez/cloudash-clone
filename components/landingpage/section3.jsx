@@ -5,7 +5,7 @@ export default function Section3() {
   return (
     <>
       <div className="mx-auto px-4  sm">
-        <h1 className=" mt-20 md:mt-32 w-full md:w-7/12 text-center m-auto bg-gradient-to-r from-purple-500 to-indigo-700 bg-clip-text font-display text-4xl font-extrabold tracking-tight text-transparent sm:text-5xl lg:leading-[4rem]">
+        <h1 className=" mt-20 md:mt-32 w-full md:w-7/12 text-center m-auto bg-gradient-to-r from-purple-500 to-indigo-700 bg-clip-text font-display text-3xl font-extrabold tracking-tight text-transparent md:text-5xl lg:leading-[4rem]">
           A single pane of glass to your AWS account
         </h1>
         <p className="leading-[1.8rem] w-full lg:w-7/12 m-auto  text-center pt-[1.2rem]  text-grey-2">

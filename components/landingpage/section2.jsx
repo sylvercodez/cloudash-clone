@@ -7,7 +7,7 @@ export default function Section2() {
     <div>
       <div className="mx-auto max-w-8xl px-6 pt-20 pb-6 lg:px-8 mt-0 md:mt-10">
         <div className="relative mx-auto max-w-4xl text-center text-2xl font-bold tracking-tight text-slate-900 sm:text-3xl">
-       <h1 className="text-3xl w-full md:w-8/12 m-auto leading-9">OK, Cloudash is quite literally Magic for AWS Serverless Development</h1>
+       <h1 className=" text-2xl md:text-3xl w-full md:w-8/12 m-auto leading-9">OK, Cloudash is quite literally Magic for AWS Serverless Development</h1>
        <Blockqoute />
         </div>
        <div>

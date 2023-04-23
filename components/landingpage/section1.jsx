@@ -12,7 +12,7 @@ export default function Section1() {
           <div class="mx-auto px-4  sm:px-6 grid lg:grid  lg:grid-cols-2 lg:gap-24 lg:px-8">
             <div>
               <div className=" w-full md:w-11/12 m-auto">
-              <h1 className="text-4xl  md:text-6xl font-extra-bold leading-14 md:leading-[4rem] ">
+              <h1 className="text-3xl  md:text-6xl font-extra-bold leading-14 md:leading-[4rem] ">
             Browse <br /> CloudWatch <br /> <span className="relative whitespace-nowrap bg-gradient-to-r bg-clip-text  from-purple-500 to-indigo-700 text-transparent">logs and metrics, </span>{" "}
             <br />
             hassle-free.
@@ -22,7 +22,7 @@ export default function Section1() {
                   to CloudWatch logs and metrics, to help you{" "}
                   <span class="font-bold">make quicker decisions.</span>
                 </p>
-                <ul  class="mt-10 columns-2 space-y-3">
+                <ul  class="mt-10 columns-2 space-y-3 mr-3 md:mr-0">
                   <li class="flex">
                     <Tick />
                     <span class="ml-2 font-light tracking-tight text-slate-700">
@@ -69,7 +69,7 @@ export default function Section1() {
                       Download Desktop App
                     </button>
                   </div>
-                  <div class="text-xs leading-5 text-slate-500">
+                  <div class="text-[10px] md:text-xs leading-5 text-slate-500">
                     Free 7-day trial • No credit card required <br /> Available
                     for macOS, Linux and Windows
                   </div>
